@@ -38,9 +38,9 @@ public class Publisher {
         return "Publisher{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
-                ", addressLine='" + addressLine1 + '\'' +
+                ", addressLine1='" + addressLine1 + '\'' +
                 ", city='" + city + '\'' +
-                ", street='" + state + '\'' +
+                ", state='" + state + '\'' +
                 ", zip='" + zip + '\'' +
                 '}';
     }
